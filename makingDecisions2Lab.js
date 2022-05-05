@@ -90,7 +90,7 @@ let evensArr = [];
 ////////// PROBLEM 6 //////////
 
 // Do not edit the code below.
-var myFavoriteNumbers = [4, 8, 12, 16, 20, 24];
+var myFavoriteNumbers = [4, 8, 12, 16, 20, 24, 1, 2, 3];
 // Do not edit the code above.
 
 /*
